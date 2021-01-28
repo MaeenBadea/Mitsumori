@@ -23,6 +23,7 @@ concepts for devs.
 ## Next Steps
 * add a `dark` mode.
 * add splash screen
+* animate list appearance
 
 
 
