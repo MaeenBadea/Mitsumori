@@ -1,4 +1,4 @@
-# mitsumori
+# Mitsumori
  
 Mitsumori -quote in japanese- is an app for sharing quotes , it utilizes firebase firestore as the database to store users quotes,
 also the app includes animations and a variety of flutter widgets, not to mention it's highly structured,
