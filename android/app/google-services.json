@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706731385883",
+    "project_id": "mitsumori-31b27",
+    "storage_bucket": "mitsumori-31b27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706731385883:android:e5b646f8ed8c1898abc4be",
+        "android_client_info": {
+          "package_name": "com.example.mitsumori"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706731385883-k6nt46e61fe7l7dsrtbk9g1cn6mvv0qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClFIlrpOlna1A1nctZWZ2cNjEH1_CdTUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706731385883-k6nt46e61fe7l7dsrtbk9g1cn6mvv0qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
