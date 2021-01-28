@@ -23,14 +23,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  timeago: ^2.0.29
   firebase_core: ^0.7.0
-  firebase_auth: ^0.20.0+1
   cloud_firestore: ^0.16.0
   flutter_staggered_grid_view:
   flutter_spinkit: ^4.1.2
   modal_progress_hud: ^0.1.3
-  flutter_icons: ^1.1.0
   share: ^0.6.5+4
   url_launcher: ^5.7.10
 
