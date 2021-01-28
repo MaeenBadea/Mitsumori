@@ -11,6 +11,7 @@ concepts for devs.
 # about the app
 * App main language: Dart.
 * Framework: Flutter.
+* Backend: Firebase.
 
 
 ## Tools & Libraries
